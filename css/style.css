@@ -1,0 +1,16 @@
+.card {
+    background-color: rgb(241, 241, 241);
+    border: none;
+    height: 570px;
+}
+
+.navbar {
+    color: rgb(255, 255, 255);
+    background-color: rgb(196, 196, 196);
+}
+
+.photo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
